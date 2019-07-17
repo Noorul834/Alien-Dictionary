@@ -1,0 +1,29 @@
+shada = She 
+hada = He
+thaada = They
+itada = It
+Youthada = You
+Idha = I
+Methada = Me
+issa = is
+imma = am
+arra = are
+hassa = has
+havva = have
+hassabinda = has been 
+havvabinda = have been
+wassa = was
+warra = were
+hadda = had
+haddabinda = had been
+willa = will
+shalla = shall
+willabinn = will be
+shallabinn = shall be 
+willahavvabinda = will have been
+shallahavvabinda = shall have been 
+832*&% = Hello
+)_*)343# = How Are You?
+
+Noorul = Noorul
+
